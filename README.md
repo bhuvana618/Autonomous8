@@ -5,4 +5,4 @@ performance and provide datasets for semantic segmentation. Recently, substantia
 progress has been made in this topic, which is a subset of visual scene interpretation,
 owing to the contribution of deep learning approaches. Here, some of the most
 extensively used and open urban semantic segmentation datasets for self-driving car
-applications are explored and identified
+applications are explored and identified.
